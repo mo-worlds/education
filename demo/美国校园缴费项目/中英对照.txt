@@ -1,2 +1,3 @@
 Online_Payment:在线缴费
 Unpaid:待支付
+cash payment:线下缴费/现金缴费
